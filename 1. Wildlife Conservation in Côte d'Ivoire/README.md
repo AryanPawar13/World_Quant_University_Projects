@@ -17,4 +17,5 @@ into one of multiple categories.
 5. How to turn those predictions into a submission to the competition
 
 Credit for Code files creation: [WorldQuant University](https://www.wqu.edu/) 
+
 Link to the [license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
