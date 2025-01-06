@@ -6,4 +6,4 @@ A repository containing all the projects that were carried out during my Applied
 
 ## The Projects
 1. Wildlife Conservation in Côte d'Ivoire:
-In this project, we looked at a data science competition: Conser-vision Practice Area: Image Classification (https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/) helping scientists track animals in a wildlife preserve. The goal is to take images from camera traps and classify which animal, if any, is present. To complete the competition, we expanded our machine learning skills by creating more powerful neural network models that can take images as inputs and classify them into one of multiple categories.
+This project involves building a machine learning model to classify animals in camera trap images for a wildlife preserve. We learnt to process image data, use PyTorch for neural networks, build and train Convolutional Neural Networks (CNNs), make predictions, and submit results to a data science competition: Conser-vision Practice Area: Image Classification (https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/) 
